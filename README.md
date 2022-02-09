@@ -44,8 +44,7 @@ All this can be accessed with a free PagBank account that requires no paperwork 
     * Comparatively, PagSeguro brought in FY2021 TPV of R$456 billion. While Nubank has yet to release FY2021 TPV numbers, extrapolating their first half forward makes it unlikely they would have eclipsed even half of PagSeguro's TPV. Both companies saw TPV grow by nearly 100% year over year; the fact that PagSeguro dwarfs Nubank's payment volume with only *one* *fifth* of their banking client base speaks to the advantages PagSeguro has edified in e-commerce, POS, and network effects from early adoption.
 ---
 2. **[StoneCo](https://finance.yahoo.com/quote/STNE?p=STNE&.tsrc=fin-srch)** competes with PagSeguro not on the personal banking side, but instead on payment processing and commercial lending. According to Morningstar, the Berkshire Hathaway backed fintech:
-
- >"combines advanced, end-toend, cloud based technology platforms; diffentiated hyper-local and integrated distribution approached; and white glove, on-demand customer service."
+    >"combines advanced, end-to-end, cloud based technology platforms; diffentiated hyper-local and integrated distribution approached; and white glove, on-demand customer service."
 
     * They cater primarily to small and medium sized businesses via online payment processing and POS devices for in-person transactions. PagSeguro's business offerings primarily target small entrepreneur's and micro merchants, though they do have a growing value-added (read not-free, or "white glove" as MorningStar puts it) segment. So while StonCo offers a more targeted, feature-rich business banking solution, it's also more expensive.
 
@@ -55,6 +54,6 @@ All this can be accessed with a free PagBank account that requires no paperwork 
 
         1. A complete disaster in StoneCo's credit business, as mounting bad loans have forced StoneCo to halt lending activities. 
         2. Higher borrowing costs resulting from hawkish monetary policy in Brazil 
-
+---
 
 
