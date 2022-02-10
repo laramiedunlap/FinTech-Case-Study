@@ -70,3 +70,6 @@ While NuBank leads the way in volume, PagSeguro holds a distinct advantage in pr
 
 **Number of online banking accounts in Brazil from 2017 to 2019**
 ![Chart](mobilebanking-Brazil.JPG)
+<sub>(source:[Statista](https://www.statista.com/statistics/1118094/brazil-number-digital-bank-accounts/#:~:text=In%202019%2C%20the%20number%20of,in%20the%20South%20American%20country.))</sub>
+
+
