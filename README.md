@@ -56,4 +56,13 @@ All this can be accessed with a free PagBank account that requires no paperwork 
         2. Higher borrowing costs resulting from hawkish monetary policy in Brazil 
 ---
 
-
+### Results
+Here is a quick snapshot of all three company's financial situation:
+|           |PagSeguro  |NuBank     |StoneCo    |
+|:----------|:----------:|:----------:|:----------:|
+|*Market Cap*($K)|5,569,075|**41,014,296**|3,994,953|
+|*Annual Sales*|1,322,050,000|**7,741,860,000**|644,050,000|
+|*Annual Net Income*|205,580,000|**819,550,000**|165,690,000|
+|*Last Quarter Sales*|**531,280,000**|334,398,000|281,290,000|
+|*Last Quarter Net Income*|**61,510,000**|-34,212,000|-239,580,000|
+    
