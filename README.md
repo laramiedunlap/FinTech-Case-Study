@@ -2,15 +2,15 @@
 
 ## PagSeguro
 ### Overview and Origin
-* [PagSeguro](https://finance.yahoo.com/quote/PAGS?p=PAGS&.tsrc=fin-srch) was founded by its parent company Universo Online (UOL) in 2006 to provide the digital payment infrastructure for the burgeoning e-commerce sector of Brazil
+* [PagSeguro](https://finance.yahoo.com/quote/PAGS?p=PAGS&.tsrc=fin-srch) was founded by its parent company Universo Online (UOL) in 2006 to provide the digital payment infrastructure for the burgeoning e-commerce sector of Brazil [^1]
 
-* Between 2006-2011, 45% of Brazil's population had no bank account, and less than 30% had internet access. Yet UOL, the largest digital content, internet product and service provider in Brazil, saw the potential growth and knew that the expansion of internet users would beget a boom in the need for fast online payments
+* Between 2006-2011, 45% of Brazil's population had no bank account, and less than 30% had internet access. Yet UOL, the largest digital content, internet product and service provider in Brazil, saw the potential growth and knew that the expansion of internet users would beget a boom in the need for fast online payments [^2]
 
-* Fastforward to 2022, and PagSeguro brings in 250 million (USD) annually in net income and offers an entire online banking ecosystem to its users. 
+* Fastforward to 2022, and PagSeguro brings in 250 million (USD) annually in net income and offers an entire online banking ecosystem to its users. [^3]
 
 ---
 ### Business Activities
-* The Brazillian retail landscape contains a patchwork of micromerchants and small-to-medium sized enterprises (SMEs) -- all with highly variable needs in terms of e-commerce, many simply lack point-of-sale (POS) methods and credit card reconcilliation.
+* The Brazilian retail landscape contains a patchwork of micromerchants and small-to-medium sized enterprises (SMEs) -- all with highly variable needs in terms of e-commerce, many simply lack point-of-sale (POS) methods and credit card reconcilliation.
 
 * In 2013, PagSeguro expanded their services from online payments to POS devices and mobile POS (mPOS) for individual entrepreneurs, micromerchants, and SMEs. 
 
@@ -20,7 +20,7 @@
 
 * Merchants and the public have 37 different cash-in options on their free platform, and consumers have access to QR code payment, peer-to-peer transfers, physical cash cards, along with multiple other features. 
 
-* For small businesses, the PagBank app can generate income reports, allow them to receive advances on card receivable accounts, and even manage inventory. 
+* For small businesses, the PagBank app can generate income reports, allow them to receive advances on card receivable accounts, and even manage inventory. [^4]
 ---
 ### Landscape: Is there room for the jack-of-all-trades FinTech? 
 * To try and box PagSeguro into a specific sector of the FinTech domain proves impossible. As of 2021, PagSeguro offers:
@@ -39,20 +39,20 @@ All this can be accessed with a free PagBank account that requires no paperwork 
 * StoneCo
 
 ---
-1. **[NuBank](https://finance.yahoo.com/quote/NU?p=NU&.tsrc=fin-srch)** currently holds the lead in digital banking across Latin America, having just expanded into Columbia. Their user base of 30 million makes it the single largest digital non-custodial bank in Latin American, and they have 26 million users in Brazil alone. Compared to the 6 million users of PagSeguro's PagBank app, NuBank has a distinct advantage in users. However, because PagSeguro was first to market in e-commerce, total payment volume (TPV) for NuBank fallas significantly behind PagSeguro's.
-    * While Nubank has only recently become available to US investors via NuHoldings, recent press releases from the company indicate there first half 2021 TPV of R$92 billion
-    * Comparatively, PagSeguro brought in FY2021 TPV of R$456 billion. While Nubank has yet to release FY2021 TPV numbers, extrapolating their first half forward makes it unlikely they would have eclipsed even half of PagSeguro's TPV. Both companies saw TPV grow by nearly 100% year over year; the fact that PagSeguro dwarfs Nubank's payment volume with only *one* *fifth* of their banking client base speaks to the advantages PagSeguro has edified in e-commerce, POS, and network effects from early adoption.
+1. **[NuBank](https://finance.yahoo.com/quote/NU?p=NU&.tsrc=fin-srch)** currently holds the lead in digital banking across Latin America, having just expanded into Columbia. Their user base of 48 million makes it the single largest digital non-custodial bank in Latin American, and they have 26 million users in Brazil alone. Compared to the 6 million users of PagSeguro's PagBank app, NuBank has a distinct advantage in users. However, because PagSeguro was first to market in e-commerce, total payment volume (TPV) for NuBank falls significantly behind PagSeguro's. [^5]
+    * While Nubank has only recently become available to US investors via NuHoldings, recent press releases from the company indicate there first half 2021 TPV of R$92 billion [^6]
+    * While Nubank has yet to release FY2021 TPV numbers, extrapolating their first half forward makes it unlikely they could have eclipsed even half PagSeguro's consolidated TPV of **R$456 billion** . Both companies saw payment volumes grow by nearly 100% year over year; the fact that PagSeguro dwarfs Nubank's payment volume with only *one* *fifth* of their banking client base speaks to the advantages PagSeguro has edified in e-commerce, POS, and network effects from early adoption. [^7]
 ---
 2. **[StoneCo](https://finance.yahoo.com/quote/STNE?p=STNE&.tsrc=fin-srch)** competes with PagSeguro not on the personal banking side, but instead on payment processing and commercial lending. According to Morningstar, the Berkshire Hathaway backed fintech:
-    >combines advanced, end-to-end, cloud based technology platforms; diffentiated hyper-local and integrated distribution approached; and white glove, on-demand customer service.
+    >combines advanced, end-to-end, cloud based technology platforms; diffentiated hyper-local and integrated distribution approached; and white glove, on-demand customer service. [^8]
 
     * They cater primarily to small and medium sized businesses via online payment processing and POS devices for in-person transactions. PagSeguro's business offerings primarily target small entrepreneur's and micro merchants, though they do have a growing value-added (read not-free, or "white glove" as MorningStar puts it) segment. So while StonCo offers a more targeted, feature-rich business banking solution, it's also more expensive.
 
-    * StoneCo prides itself on customer service, and has added hundreds of customer service specialists and office locations throughout Brazil. So in effect, they finteched themselves into a brick-and-mortar, niche, commercial-facing finance company. 
+    * StoneCo prides itself on customer service, and has added hundreds of customer service specialists and office locations throughout Brazil. [^9] So in effect, they finteched themselves into a brick-and-mortar, niche, commercial-facing finance company. 
 
     * Despite beating PagSeguro in TPV, the company's market cap has shed $22 billion dollars since its peak in 2018, and recently fell 35% in a single day after net income for the quarter fell *54%* year over year. The sharp decline in profitability resulted from two components: 
 
-        1. A complete disaster in StoneCo's credit business, as mounting bad loans have forced StoneCo to halt lending activities. 
+        1. A complete disaster in StoneCo's credit business, as mounting bad loans have forced StoneCo to halt lending activities. A class action suit from investors has ensued since. [^10] 
         2. Higher borrowing costs resulting from hawkish monetary policy in Brazil 
 ---
 
@@ -65,6 +65,7 @@ Here is a quick snapshot of all three company's financial situation:
 |*Annual Net Income*|205,580,000|**819,550,000**|165,690,000|
 |*Last Quarter Sales*|**531,280,000**|334,398,000|281,290,000|
 |*Last Quarter Net Income*|**61,510,000**|-34,212,000|-239,580,000|
+[^11]
 
 While NuBank leads the way in volume, PagSeguro holds a distinct advantage in profitability. A huge part of that has resulted from their network effect helping to connect merchants with customers on the same network, but also by focusing and optimizing for mobile performance. 
 
@@ -73,7 +74,7 @@ While NuBank leads the way in volume, PagSeguro holds a distinct advantage in pr
 <sub>(source: [Statista](https://www.statista.com/statistics/1118094/brazil-number-digital-bank-accounts/#:~:text=In%202019%2C%20the%20number%20of,in%20the%20South%20American%20country.))</sub>
 
 According to research done by Statista and their team of over 200 data scientists, when it comes to online banking, mobile reigns supreme:
-    >In 2019, the number of online banking accounts reported in Brazil amounted to nearly 7.5 million, out of which more than 87 percent were opened through mobile banking. Meanwhile, desktop banking registered a total of 935 thousand accounts in the South American country.
+    >In 2019, the number of online banking accounts reported in Brazil amounted to nearly 7.5 million, out of which more than 87 percent were opened through mobile banking. Meanwhile, desktop banking registered a total of 935 thousand accounts in the South American country. [^12]
 
 PagSeguro's footprint can be seen already, as consumer trends point more toward mobile banking as the preferred choice among mobile users. Brazil has more physical bank branches than any other nation in South America, and while legacy financial institutions maintain the majority of deposits in the country, FinTech -- primarily NuBank and PagSeguro -- are quickly threatening the custodial banking industries traditional role. The primary headwind for their stock (which in turn affects credit facilities, fund raising ability, and acquisition capacity) is actually something very simple: the Brazilian Real. 
 
@@ -84,3 +85,26 @@ PagSeguro's footprint can be seen already, as consumer trends point more toward 
 Now for comparison, this is the Brazilian Real against the USD: 
 ![FXChart](BRLUSD=X_YahooFinanceChart.png)
 <sub>(source:[Yahoo Finance](https://finance.yahoo.com/quote/BRLUSD%3DX/chart?p=BRLUSD%3DX#eyJpbnRlcnZhbCI6ImRheSIsInBlcmlvZGljaXR5IjoxLCJ0aW1lVW5pdCI6bnVsbCwiY2FuZGxlV2lkdGgiOjEuNjU5MzU2NzI1MTQ2MTk5LCJmbGlwcGVkIjpmYWxzZSwidm9sdW1lVW5kZXJsYXkiOnRydWUsImFkaiI6dHJ1ZSwiY3Jvc3NoYWlyIjp0cnVlLCJjaGFydFR5cGUiOiJsaW5lIiwiZXh0ZW5kZWQiOmZhbHNlLCJtYXJrZXRTZXNzaW9ucyI6e30sImFnZ3JlZ2F0aW9uVHlwZSI6Im9obGMiLCJjaGFydFNjYWxlIjoibGluZWFyIiwicGFuZWxzIjp7ImNoYXJ0Ijp7InBlcmNlbnQiOjEsImRpc3BsYXkiOiJCUkxVU0Q9WCIsImNoYXJ0TmFtZSI6ImNoYXJ0IiwiaW5kZXgiOjAsInlBeGlzIjp7Im5hbWUiOiJjaGFydCIsInBvc2l0aW9uIjpudWxsfSwieWF4aXNMSFMiOltdLCJ5YXhpc1JIUyI6WyJjaGFydCIsIuKAjHZvbCB1bmRy4oCMIl19fSwic2V0U3BhbiI6bnVsbCwibGluZVdpZHRoIjoyLCJzdHJpcGVkQmFja2dyb3VuZCI6dHJ1ZSwiZXZlbnRzIjp0cnVlLCJjb2xvciI6IiNmZjMzM2EiLCJzdHJpcGVkQmFja2dyb3VkIjp0cnVlLCJyYW5nZSI6bnVsbCwiZXZlbnRNYXAiOnsiY29ycG9yYXRlIjpbXSwic2lnRGV2Ijp7fX0sInN5bWJvbHMiOlt7InN5bWJvbCI6IkJSTFVTRD1YIiwic3ltYm9sT2JqZWN0Ijp7InN5bWJvbCI6IkJSTFVTRD1YIiwicXVvdGVUeXBlIjoiQ1VSUkVOQ1kiLCJleGNoYW5nZVRpbWVab25lIjoiRXVyb3BlL0xvbmRvbiJ9LCJwZXJpb2RpY2l0eSI6MSwiaW50ZXJ2YWwiOiJkYXkiLCJ0aW1lVW5pdCI6bnVsbCwic2V0U3BhbiI6bnVsbH1dLCJjdXN0b21SYW5nZSI6bnVsbCwid2lkdGgiOjIsInN0dWRpZXMiOnsi4oCMdm9sIHVuZHLigIwiOnsidHlwZSI6InZvbCB1bmRyIiwiaW5wdXRzIjp7ImlkIjoi4oCMdm9sIHVuZHLigIwiLCJkaXNwbGF5Ijoi4oCMdm9sIHVuZHLigIwifSwib3V0cHV0cyI6eyJVcCBWb2x1bWUiOiIjMDBiMDYxIiwiRG93biBWb2x1bWUiOiIjZmYzMzNhIn0sInBhbmVsIjoiY2hhcnQiLCJwYXJhbWV0ZXJzIjp7IndpZHRoRmFjdG9yIjowLjQ1LCJjaGFydE5hbWUiOiJjaGFydCIsInBhbmVsTmFtZSI6ImNoYXJ0In19fX0-))</sub>
+
+While this cross-section of Brazilian fintech dramatically outperformed the brazilian real (BRL) in 2020, most of that success can be assigned to beta -- or the correlation of the stocks shown above to the broader market. Massive liquidity injection in US markets during the pandemic fueled an enormous valuation rise across the board. However, as both the US and Brazil are beginning to tighten monetary policy, PagSeguro and their cohort have returned to a tight correlation with the currency underpinning their customer base. Holding deposits in BRL limits the upside for investors, and though PagSeguro has taken great leaps toward the democratization of finance in Brazil, a publicly traded company must heed shareholders. 
+
+---
+### Recommendations
+
+---
+
+### Sources
+[^1]: [PagSeguro Investors Page: Our History](https://investors.pagseguro.com/about-us/our-history/)
+[^2]: [Worldbank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=BR)
+[^3]: [WallStreet Journal](https://www.wsj.com/market-data/quotes/PAGS/financials/annual/income-statement)
+[^4]: [PagSeguro Investors Page: Who we are](https://investors.pagseguro.com/about-us/who-we-are/)
+[^5]: [Bussinessofapps.com](https://www.businessofapps.com/data/nubank-statistics/)
+[^6]: [Programdores Brasil](https://programadoresbrasil.com.br/en/2021/10/nubank-fintech-reports-financial-results-2021-net-profit-76-million-first-in-its-history/)
+[^7]: [PAGS Press Release, Feb 02, 2022](https://api.mziq.com/mzfilemanager/v2/d/d1c190f7-52c1-4663-aa9f-0e0141aa5e3c/74e9889b-8c95-a4ee-2af4-13dd92c78037?origin=1)
+[^8]: [Morningstar: StoneCo Company Profile](https://www.morningstar.com/stocks/xnas/stne/quote)
+[^9]: [StoneCo: Home Page](https://www.stone.co/)
+[^10]: [Bloomberg Wire: StoneCo Investors Have Opportunity to Lead Class Action](https://www.bloomberg.com/press-releases/2022-01-14/deadline-next-tuesday-stoneco-ltd-investors-with-substantial-losses-have-opportunity-to-lead-class-action-stne)
+[^11]: [Barchart.com: Stock Comparison, Financial Comparison](https://www.barchart.com/my/compare-stocks)
+[^12]: [Statista: Number of online banking accounts in Brazil from 2017 to 2019, by type](https://www.statista.com/statistics/1118094/brazil-number-digital-bank-accounts/#:~:text=In%202019%2C%20the%20number%20of,in%20the%20South%20American%20country.)
+
+
