@@ -1,6 +1,6 @@
-# Unit 1 Homework Assignment: FinTech Case Study
+# FinTech Case Study
 
-## PagSeguro
+
 ![PagLogo](pagbank.gif)
 ### Overview and Origin
 * [PagSeguro](https://finance.yahoo.com/quote/PAGS?p=PAGS&.tsrc=fin-srch) was founded by its parent company Universo Online (UOL) in 2006 to provide the digital payment infrastructure for the burgeoning e-commerce sector of Brazil [^1]
