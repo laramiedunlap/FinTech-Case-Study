@@ -65,4 +65,8 @@ Here is a quick snapshot of all three company's financial situation:
 |*Annual Net Income*|205,580,000|**819,550,000**|165,690,000|
 |*Last Quarter Sales*|**531,280,000**|334,398,000|281,290,000|
 |*Last Quarter Net Income*|**61,510,000**|-34,212,000|-239,580,000|
-    
+
+While NuBank leads the way in volume, PagSeguro holds a distinct advantage in profitability. A huge part of that has resulted from their network effect helping to connect merchants with customers on the same network, but also by focusing and optimizing for mobile performance. 
+
+**Number of online banking accounts in Brazil from 2017 to 2019**
+![Chart](mobilebanking-Brazil.JPG)
