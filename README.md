@@ -100,10 +100,11 @@ In Brazil, the blockchain is still in the early stages of adoption. Though only 
 > Ninety-two percent of the crypto users are male, and regardless of gender, 40% of crypto holders are 20 to 25 years old. The age groups 26-30 and 31-40 respectively represent 20%. [^14]
 
 * With a growing interest in crytpo, particularly amongst the younger adults (and Brazil is also a young country in general for its size: median age 33.2 [^15]), offering a mobile cryptowallet avails itself as a perfect fit with the crypto-adoption trend in Brazil. 
-    *Users could view their crypto-assets alongside their checkings, savings, and credit accounts in the PagBank app.
-    *A Pag-CrytoWallet would allow for another peer-to-peer payment method that has even lower transaction costs and does not require the end user to be within the existing PagSeguro network
-    *Of Particular importance: PagBank would have now on its ledger crypto-backed assets.
-        *They could allow users to pay credit card fees, top off mobile prepaid phones, pay insurance bills, and much more with digital assets instead of BRL. This gives shareholders cryto-exposure along with the returns on equity of a disruptive FinTech in a predominantly young country. 
+    **Users could view their crypto-assets alongside their checkings, savings, and credit accounts in the PagBank app.
+    **A Pag-CrytoWallet would allow for another peer-to-peer payment method that has even lower transaction costs and does not require the end user to be within the existing PagSeguro network
+    **Of Particular importance: PagBank would have now on its ledger crypto-backed assets.
+        1. They could allow users to pay credit card fees, top off mobile prepaid phones, pay insurance bills, and much more with digital assets instead of BRL. 
+        2. This gives shareholders cryto-exposure along with the returns on equity of a disruptive FinTech in a predominantly young country. 
 
 Alongside this effort, PagSeguro could also consider a foray into mobile betting. For starters, they are already domiciled in the Cayman Islands, which is the ideal location for sportsbooks. 
 
