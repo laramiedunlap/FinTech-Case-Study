@@ -101,11 +101,11 @@ In Brazil, the blockchain is still in the early stages of adoption. Though only 
 
 * With a growing interest in crytpo, particularly amongst the younger adults (and Brazil is also a young country in general for its size: median age 33.5 [^15]), offering a mobile cryptowallet avails itself as a perfect fit with the crypto-adoption trend in Brazil. 
 
-**Users could view their crypto-assets alongside their checkings, savings, and credit accounts in the PagBank app.
+    *Users could view their crypto-assets alongside their checkings, savings, and credit accounts in the PagBank app.
 
-**A Pag-CrytoWallet would allow for another peer-to-peer payment method that has even lower transaction costs and does not require the end user to be within the existing PagSeguro network
+    *A Pag-CrytoWallet would allow for another peer-to-peer payment method that has even lower transaction costs and does not require the end user to be within the existing PagSeguro network
 
-**Of Particular importance: PagBank would have now on its ledger crypto-backed assets.
+    *Of Particular importance: PagBank would have now on its ledger crypto-backed assets.
     
     1. They could allow users to pay credit card fees, top off mobile prepaid phones, pay insurance bills, and much more with digital assets instead of BRL. 
         
