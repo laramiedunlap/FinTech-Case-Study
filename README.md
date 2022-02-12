@@ -116,7 +116,7 @@ Alongside this effort, PagSeguro could also consider a foray into mobile betting
 * **What do sports bettors look like in Brazil?**
     * With Sports betting set to become legal ahead of the 2022 World Cup, Brazil has now become the largest market in the world for sports betting. Despite being a smaller population than the US (212 million vs 329 million), the fact that US sportsbook operators can only offer lines in certain states makes Brazil the largest growth opportunity in the world. 
     * According to surveys performed by Sambadigital, when it comes to selecting an online betting venue, the number one priority for bettors was *payment speed*. [^16] 
-    * While demographic studies on sports betting in Brazil are scant (the industry has only recently become regulated), extrapolating from more mature sports betting markets would point toward a predominately male audience (between 65-85 percent) and roughly 50 percent between the ages of 18-34. [^17]
+    * While demographic studies on sports betting in Brazil are scant (the industry has only recently become regulated), extrapolating from more mature sports betting markets would point toward a predominately male audience (between 65-85 percent) and roughly fifty percent between the ages of 18-34. [^17]
 
 Considering the frequency of transactions, preference for mobile, and age/gender demographics, this would be a perfect market to approach in combination with a crytpowallet. 
 
@@ -132,7 +132,7 @@ PagSeguro has myriad opportunities to expand their client base and product offer
 
 Incorporating a bitcoin wallet and mobile betting affiliation would allow consumers to easily see and wheel through available balnces in checking, credit cards, margin/retirement accounts, prepaid cash cards, cryptowallet, and betting accounts. Not only would PagBank be able to farm their database for all sorts of interesting behavioral trends, but they would have a perfect overlap in both age and gender demographics in the new cohort of crypto-trader and sports bettor segment. If PagSeguro can capture a large share of these new markets now, streamlining marketing efforts towards these two segments, then they have an oportunity to build another moat around their network -- very similar to the one initiated when they became the first e-commerce payment provider.  
 
-### Sources
+### Footnotes
 [^1]: [PagSeguro Investors Page: Our History](https://investors.pagseguro.com/about-us/our-history/)
 [^2]: [Worldbank](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=BR)
 [^3]: [WallStreet Journal](https://www.wsj.com/market-data/quotes/PAGS/financials/annual/income-statement)
