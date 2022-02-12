@@ -116,7 +116,7 @@ Alongside this effort, PagSeguro could also consider a foray into mobile betting
 * **What do sports bettors look like in Brazil?**
     * With Sports betting set to become legal ahead of the 2022 World Cup, Brazil has now become the largest market in the world for sports betting. Despite being a smaller population than the US (212 million vs 329 million), the fact that US sportsbook operators can only offer lines in certain states makes Brazil the largest growth opportunity in the world. 
     * According to surveys performed by Sambadigital, when it comes to selecting an online betting venue, the number one priority for bettors was *payment speed*. [^16] 
-    * While demographic studies on sports betting in Brazil are scant (the industry has only recently become regulated), extrapolating from more mature sports betting markets would point toward a predominately male audience (between 65-85 percent) and roughly 50 percent between the ages of 18-34. 
+    * While demographic studies on sports betting in Brazil are scant (the industry has only recently become regulated), extrapolating from more mature sports betting markets would point toward a predominately male audience (between 65-85 percent) and roughly 50 percent between the ages of 18-34. [^17]
 
 Considering the frequency of transactions, preference for mobile, and age/gender demographics, this would be a perfect market to approach in combination with a crytpowallet. 
 
@@ -126,9 +126,11 @@ Considering the frequency of transactions, preference for mobile, and age/gender
 * Sports betting has become an increasingly competetitive landscape. Sixty percent of bettors in Brazil use 2 sites or less [^16]. Considering that transaction speed is the most important consideration for many bettors when surveyed, affiliating with one of the top sportsbooks and advertising instant processing for deposits and withdraws, along with cryptowallet integration, would attract a large customer base to the PagBank app -- and consequently the ecosystem. 
 * Sportsbooks would be encouraged to pay for partnership with PagBank and the ability to integrate PagBank as an option for their customer base.   
 
-
-
 ---
+### Conclusion
+PagSeguro has myriad opportunities to expand their client base and product offering. However, I believe the concurrence of both crypto-adoption and sports betting in Brazil, makes 2022 an optimal time to expand into both areas. By offering consumers a cryptowallet, they diversify their PagBank deposit base, increase addressable market, and provide the first Brazilian banking integration with crypto. As of this writing, the only crypto exposure available through traditional banks or neobanks in Brazil comes via crypto-backed ETFs; which, as anyone who invests in crypto would know, rids the asset base of both it's anonymity and fungibility. 
+
+Incorporating a bitcoin wallet and mobile betting affiliation would allow consumers to easily see and wheel through available balnces in checking, credit cards, margin/retirement accounts, prepaid cash cards, cryptowallet, and betting accounts. Not only would PagBank be able to farm their database for all sorts of interesting behavioral trends, but they would have a perfect overlap in both age and gender demographics in the cohort. And if PagSeguro can capture a large share of these new markets now, then they will have built another moat around their network -- very similar to the one initiated when they became the first e-commerce payment provider.  
 
 ### Sources
 [^1]: [PagSeguro Investors Page: Our History](https://investors.pagseguro.com/about-us/our-history/)
@@ -147,5 +149,6 @@ Considering the frequency of transactions, preference for mobile, and age/gender
 [^14]: [ETN-Network: Why is Brazil, a country of contrasts, where the poorest use crypto the most?](https://news.electroneum.com/brazil-a-huge-business-opportunity-where-crypto-is-on-the-rise-among-a-median-population-of-32)
 [^15]: [Worldometer: Country Info](https://www.worldometers.info/world-population/brazil-population/#:~:text=The%20median%20age%20in%20Brazil%20is%2033.5%20years.)
 [^16]:[Sambadigital: In-depth look at Brazilian Gamblers ](https://sambadigital.com/globos-exclusive-survey-provides-an-in-depth-look-into-brazilian-gamblers/#:~:text=Sports%20Betting%20Market%20%E2%80%93%20All%20Media&text=Aside%20from%20sports%20betting%2C%2069,not%20done%20on%20a%20website.)
+[^17]: [FSGA: report on sports betting demographics](https://thefsga.org/industry-demographics/)
 
 
