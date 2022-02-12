@@ -99,15 +99,32 @@ In Brazil, the blockchain is still in the early stages of adoption. Though only 
 * **What do crypto owners look like in Brazil?**:
 > Ninety-two percent of the crypto users are male, and regardless of gender, 40% of crypto holders are 20 to 25 years old. The age groups 26-30 and 31-40 respectively represent 20%. [^14]
 
-* With a growing interest in crytpo, particularly amongst the younger adults (and Brazil is also a young country in general for its size: median age 33.2 [^15]), offering a mobile cryptowallet avails itself as a perfect fit with the crypto-adoption trend in Brazil. 
-    **Users could view their crypto-assets alongside their checkings, savings, and credit accounts in the PagBank app.
-    **A Pag-CrytoWallet would allow for another peer-to-peer payment method that has even lower transaction costs and does not require the end user to be within the existing PagSeguro network
-    **Of Particular importance: PagBank would have now on its ledger crypto-backed assets.
-        1. They could allow users to pay credit card fees, top off mobile prepaid phones, pay insurance bills, and much more with digital assets instead of BRL. 
-        2. This gives shareholders cryto-exposure along with the returns on equity of a disruptive FinTech in a predominantly young country. 
+* With a growing interest in crytpo, particularly amongst the younger adults (and Brazil is also a young country in general for its size: median age 33.5 [^15]), offering a mobile cryptowallet avails itself as a perfect fit with the crypto-adoption trend in Brazil. 
 
-Alongside this effort, PagSeguro could also consider a foray into mobile betting. For starters, they are already domiciled in the Cayman Islands, which is the ideal location for sportsbooks. 
+**Users could view their crypto-assets alongside their checkings, savings, and credit accounts in the PagBank app.
 
+**A Pag-CrytoWallet would allow for another peer-to-peer payment method that has even lower transaction costs and does not require the end user to be within the existing PagSeguro network
+
+**Of Particular importance: PagBank would have now on its ledger crypto-backed assets.
+    
+    1. They could allow users to pay credit card fees, top off mobile prepaid phones, pay insurance bills, and much more with digital assets instead of BRL. 
+        
+    2. This gives shareholders cryto-exposure along with the returns on equity of a disruptive FinTech in a predominantly young country. 
+
+Alongside this effort, PagSeguro could also consider a foray into mobile betting. Whether via an acquisition or affiliate programs to provide payment processing, the gambling market in Brazil is an attractive avenue to grow mobile banking for PagSeguro. 
+
+* **What do sports bettors look like in Brazil?**
+    * With Sports betting set to become legal ahead of the 2022 World Cup, Brazil has now become the largest market in the world for sports betting. Despite being a smaller population than the US (212 million vs 329 million), the fact that US sportsbook operators can only offer lines in certain states makes Brazil the largest growth opportunity in the world. 
+    * According to surveys performed by Sambadigital, when it comes to selecting an online betting venue, the number one priority for bettors was *payment speed*. [^16] 
+    * While demographic studies on sports betting in Brazil are scant (the industry has only recently become regulated), extrapolating from more mature sports betting markets would point toward a predominately male audience (between 65-85 percent) and roughly 50 percent between the ages of 18-34. 
+
+Considering the frequency of transactions, preference for mobile, and age/gender demographics, this would be a perfect market to approach in combination with a crytpowallet. 
+
+* For starters, bettors consistently make frequent deposits and withdrawls, which would boost TPV for PagBank. 
+* Furthermore, affiliating with one of the top sportsbook operators in Brazil would be hugely profitable. 
+* Many sportsbook also offer bonuses for deposits made in bitcoin, and integrating PagBank into online betting portals would be simple: the infrastructure from e-commerce already exists.
+* Sports betting has become an increasingly competetitive landscape. Sixty percent of bettors in Brazil use 2 sites or less [^16]. Considering that transaction speed is the most important consideration for many bettors when surveyed, affiliating with one of the top sportsbooks and advertising instant processing for deposits and withdraws, along with cryptowallet integration, would attract a large customer base to the PagBank app -- and consequently the ecosystem. 
+* Sportsbooks would be encouraged to pay for partnership with PagBank and the ability to integrate PagBank as an option for their customer base.   
 
 
 
@@ -128,5 +145,7 @@ Alongside this effort, PagSeguro could also consider a foray into mobile betting
 [^12]: [Statista: Number of online banking accounts in Brazil from 2017 to 2019, by type](https://www.statista.com/statistics/1118094/brazil-number-digital-bank-accounts/#:~:text=In%202019%2C%20the%20number%20of,in%20the%20South%20American%20country.)
 [^13]: [HootSuite: Global Digital Yearbook -- Brazil 2021](https://datareportal.com/reports/digital-2021-brazil)
 [^14]: [ETN-Network: Why is Brazil, a country of contrasts, where the poorest use crypto the most?](https://news.electroneum.com/brazil-a-huge-business-opportunity-where-crypto-is-on-the-rise-among-a-median-population-of-32)
+[^15]: [Worldometer: Country Info](https://www.worldometers.info/world-population/brazil-population/#:~:text=The%20median%20age%20in%20Brazil%20is%2033.5%20years.)
+[^16]:[Sambadigital: In-depth look at Brazilian Gamblers ](https://sambadigital.com/globos-exclusive-survey-provides-an-in-depth-look-into-brazilian-gamblers/#:~:text=Sports%20Betting%20Market%20%E2%80%93%20All%20Media&text=Aside%20from%20sports%20betting%2C%2069,not%20done%20on%20a%20website.)
 
 
