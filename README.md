@@ -5,7 +5,7 @@
 ### Overview and Origin
 * [PagSeguro](https://finance.yahoo.com/quote/PAGS?p=PAGS&.tsrc=fin-srch) was founded by its parent company Universo Online (UOL) in 2006 to provide the digital payment infrastructure for the burgeoning e-commerce sector of Brazil [^1]
 
-* Between 2006-2011, 45% of Brazil's population had no bank account, and less than 30% had internet access. Yet UOL, the largest digital content, internet product and service provider in Brazil, saw the potential growth and knew that the expansion of internet users would beget a boom in the need for fast online payments [^2]
+* Between 2006-2011, forty-five percent of Brazil's population had no bank account, and less than thirty percent had internet access. Yet UOL, the largest digital content, internet product and service provider in Brazil, saw the potential growth and knew that the expansion of internet users would beget a boom in the need for fast online payments [^2]
 
 * Fastforward to 2022, and PagSeguro brings in 250 million (USD) annually in net income and offers an entire online banking ecosystem to its users. [^3]
 
@@ -42,7 +42,7 @@ All this can be accessed with a free PagBank account that requires no paperwork 
 ---
 1. **[NuBank](https://finance.yahoo.com/quote/NU?p=NU&.tsrc=fin-srch)** currently holds the lead in digital banking across Latin America, having just expanded into Columbia. Their user base of 48 million makes it the single largest digital non-custodial bank in Latin American, and they have 26 million users in Brazil alone. Compared to the 6 million users of PagSeguro's PagBank app, NuBank has a distinct advantage in users. However, because PagSeguro was first to market in e-commerce, total payment volume (TPV) for NuBank falls significantly behind PagSeguro's. [^5]
     * While Nubank has only recently become available to US investors via NuHoldings, recent press releases from the company indicate there first half 2021 TPV of R$92 billion [^6]
-    * While Nubank has yet to release FY2021 TPV numbers, extrapolating their first half forward makes it unlikely they could have eclipsed even half PagSeguro's consolidated TPV of **R$456 billion** . Both companies saw payment volumes grow by nearly 100% year over year; the fact that PagSeguro dwarfs Nubank's payment volume with only *one* *fifth* of their banking client base speaks to the advantages PagSeguro has edified in e-commerce, POS, and network effects from early adoption. [^7]
+    * While Nubank has yet to release FY2021 TPV numbers, extrapolating their first half forward makes it unlikely they could have eclipsed even half PagSeguro's consolidated TPV of **R$456 billion** . Both companies saw payment volumes grow by nearly one hundred percent year over year; the fact that PagSeguro dwarfs Nubank's payment volume with only *one* *fifth* of their banking client base speaks to the advantages PagSeguro has edified in e-commerce, POS, and network effects from early adoption. [^7]
 ---
 2. **[StoneCo](https://finance.yahoo.com/quote/STNE?p=STNE&.tsrc=fin-srch)** competes with PagSeguro not on the personal banking side, but instead on payment processing and commercial lending. According to Morningstar, the Berkshire Hathaway backed fintech:
     >combines advanced, end-to-end, cloud based technology platforms; diffentiated hyper-local and integrated distribution approached; and white glove, on-demand customer service. [^8]
@@ -51,7 +51,7 @@ All this can be accessed with a free PagBank account that requires no paperwork 
 
     * StoneCo prides itself on customer service, and has added hundreds of customer service specialists and office locations throughout Brazil. [^9] So in effect, they finteched themselves into a brick-and-mortar, niche, commercial-facing finance company. 
 
-    * Despite beating PagSeguro in TPV, the company's market cap has shed $22 billion dollars since its peak in 2018, and recently fell 35% in a single day after net income for the quarter fell *54%* year over year. The sharp decline in profitability resulted from two components: 
+    * Despite beating PagSeguro in TPV, the company's market cap has shed $22 billion dollars since its peak in 2018, and recently fell thirty-five percent in a single day after net income for the quarter fell *fifty-four percent* year over year. The sharp decline in profitability resulted from two components: 
 
         1. A complete disaster in StoneCo's credit business, as mounting bad loans have forced StoneCo to halt lending activities. A class action suit from investors has ensued since. [^10] 
         2. Higher borrowing costs resulting from hawkish monetary policy in Brazil 
@@ -130,7 +130,7 @@ Considering the frequency of transactions, preference for mobile, and age/gender
 ### Conclusion
 PagSeguro has myriad opportunities to expand their client base and product offering. However, I believe the concurrence of both crypto-adoption and sports betting in Brazil, makes 2022 an optimal time to expand into both areas. By offering consumers a cryptowallet, they diversify their PagBank deposit base, increase addressable market, and provide the first Brazilian banking integration with crypto. As of this writing, the only crypto exposure available through traditional banks or neobanks in Brazil comes via crypto-backed ETFs; which, as anyone who invests in crypto would know, rids the asset base of both it's anonymity and fungibility. 
 
-Incorporating a bitcoin wallet and mobile betting affiliation would allow consumers to easily see and wheel through available balnces in checking, credit cards, margin/retirement accounts, prepaid cash cards, cryptowallet, and betting accounts. Not only would PagBank be able to farm their database for all sorts of interesting behavioral trends, but they would have a perfect overlap in both age and gender demographics in the cohort. And if PagSeguro can capture a large share of these new markets now, then they will have built another moat around their network -- very similar to the one initiated when they became the first e-commerce payment provider.  
+Incorporating a bitcoin wallet and mobile betting affiliation would allow consumers to easily see and wheel through available balnces in checking, credit cards, margin/retirement accounts, prepaid cash cards, cryptowallet, and betting accounts. Not only would PagBank be able to farm their database for all sorts of interesting behavioral trends, but they would have a perfect overlap in both age and gender demographics in the new cohort of crypto-trader and sports bettor segment. If PagSeguro can capture a large share of these new markets now, streamlining marketing efforts towards these two segments, then they have an oportunity to build another moat around their network -- very similar to the one initiated when they became the first e-commerce payment provider.  
 
 ### Sources
 [^1]: [PagSeguro Investors Page: Our History](https://investors.pagseguro.com/about-us/our-history/)
