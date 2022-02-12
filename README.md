@@ -94,11 +94,12 @@ Two new offerings could help bring to PagSeguro not only new users, an increase 
 
 ---
 ### Recommendations
-In Brazil, the blockchain is still in the early stages of adoption. Though only 4.9% of Brazilians own cryptocurrencies as of 2021, this number amounts to 10 milllion users, ranking Brazil fifth in active-crypto users [^13]. 
-    **What do crypto owners look like in Brazil?**:
+In Brazil, the blockchain is still in the early stages of adoption. Though only 4.9% of Brazilians own cryptocurrencies as of 2021, this number amounts to 10 milllion users, ranking Brazil fifth in active-crypto users. [^13] 
+
+*What do crypto owners look like in Brazil?**:
 > Ninety-two percent of the crypto users are male, and regardless of gender, 40% of crypto holders are 20 to 25 years old. The age groups 26-30 and 31-40 respectively represent 20%. [^14]
 
-With a growing interest in crytpo, particularly amongst the younger adults (and Brazil is also a young country in general for its size: median age 33.2 [^15]), offering a mobile cryptowallet avails itself as a perfect fit with the crypto-adoption trend in Brazil. 
+*With a growing interest in crytpo, particularly amongst the younger adults (and Brazil is also a young country in general for its size: median age 33.2 [^15]), offering a mobile cryptowallet avails itself as a perfect fit with the crypto-adoption trend in Brazil. 
     * Users could view their crypto-assets alongside their checkings, savings, and credit accounts in the PagBank app.
     * A Pag-CrytoWallet would allow for another peer-to-peer payment method that has even lower transaction costs and does not require the end user to be within the existing PagSeguro network
     * Of Particular importance: PagBank would have now on its ledger crypto-backed assets.
