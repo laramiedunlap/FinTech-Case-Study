@@ -1,4 +1,4 @@
-# FinTech Case Study
+# PagSeguro: An Advantage Play in South American E-commerce and Payment Processing
 
 
 ![PagLogo](pagbank.gif)
